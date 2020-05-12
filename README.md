@@ -5,7 +5,7 @@ The computational modelling a physical process requires the following steps:
 (b) Formulate the mathematical model
 (c) Code and Computer Simulation.
 
-The numerical approaches are required in atmospheric modelling are summerised here.
+The numerical approaches are required to solve any partial differential equation (PDE) are following:
 ### 1. FINITE DIFFERENCE METHOD
 
 
